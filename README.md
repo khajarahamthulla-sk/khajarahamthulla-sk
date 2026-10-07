@@ -13,7 +13,7 @@ Detail-oriented MIS Executive with professional experience in data-driven operat
 ### Tech Stack & Tools
 
 <p align="left">
-  <a href="#"><img src="URL_TO_EXCEL_IMAGE" alt="Excel" height="30"></a>
+  <a href="#"><img src="https://github.com/khajarahamthulla-sk/My_Portfolio/blob/main/ExcelLogo.png" alt="Excel" height="30"></a>
   <a href="#"><img src="https://github.com/khajarahamthulla-sk/My_Portfolio/blob/main/PowerBILogo.png" alt="PowerBI" height="30"></a>
   <a href="#"><img src="URL_TO_POSTGRESQL_IMAGE" alt="PostgreSQL" height="40"></a>
 </p>
