@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/khajarahamthulla-sk/My_Portfolio/blob/main/GitHub%20Background.jpg" width="100%" alt="GitHub Background">
+  <img src="https://github.com/khajarahamthulla-sk/khajarahamthulla-sk/blob/main/GitHub%20Background.png" width="100%" alt="GitHub Background">
 </div>
 
 # Hi, I'm Khajarahamthulla Shaik
@@ -13,11 +13,11 @@ Detail-oriented MIS Executive with professional experience in data-driven operat
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/khajarahamthulla-sk/My_Portfolio/main/ExcelLogo.png" alt="Excel" height="30"> 
+  <img src="https://github.com/khajarahamthulla-sk/khajarahamthulla-sk/blob/main/Excel.png" alt="Excel" height="30"> 
   <strong>Advanced Excel:</strong> Formulas, Functions, Conditional format, Pivot Table, Power Pivot, Power Query, Macro, & VBA
 </p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/khajarahamthulla-sk/My_Portfolio/main/PowerBILogo.png" alt="PowerBI" height="30"> 
+  <img src="https://github.com/khajarahamthulla-sk/khajarahamthulla-sk/blob/main/PowerBI.png" alt="PowerBI" height="30"> 
   <strong>Power BI:</strong> DAX, Data Modeling, Power query, Dashboard Design, & KPIs
 </p>
 <p align="left">
@@ -37,8 +37,8 @@ Detail-oriented MIS Executive with professional experience in data-driven operat
 
 ### 📬 Connect with me:
 <p align="left">
-  <a href="mailto:sk.khajarahamthulla199@gmail.com"><img src="https://raw.githubusercontent.com/khajarahamthulla-sk/My_Portfolio/main/GmailLogo.png" alt="Email" height="30"></a>
-  <a href="https://linkedin.com/in/sk-khajarahamthulla" target="_blank"><img src="https://raw.githubusercontent.com/khajarahamthulla-sk/My_Portfolio/main/LinkedIn_logo.png" alt="LinkedIn" height="30"></a>
+  <a href="mailto:sk.khajarahamthulla199@gmail.com"><img src="https://github.com/khajarahamthulla-sk/khajarahamthulla-sk/blob/main/Gmail.png" alt="Email" height="30"></a>
+  <a href="https://linkedin.com/in/sk-khajarahamthulla" target="_blank"><img src="https://github.com/khajarahamthulla-sk/khajarahamthulla-sk/blob/main/LinkedIn.png" alt="LinkedIn" height="30"></a>
 </p>
 
 ---
