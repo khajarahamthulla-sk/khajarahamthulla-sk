@@ -21,7 +21,7 @@ Detail-oriented MIS Executive with professional experience in data-driven operat
   <strong>Power BI:</strong> DAX, Data Modeling, Power query, Dashboard Design, & KPIs
 </p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/khajarahamthulla-sk/My_Portfolio/main/PostgreSQLLogo.png" alt="PostgreSQL" height="35"> 
+  <img src="https://github.com/khajarahamthulla-sk/khajarahamthulla-sk/blob/main/PostgreSQL.png" alt="PostgreSQL" height="30"> 
   <strong>PostgreSQL:</strong> Data Extraction, Filtering Data, Joins, Date / Time, Sorting & Limiting, & Aggregating Data
 </p>
 
