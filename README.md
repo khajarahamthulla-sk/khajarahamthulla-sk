@@ -30,7 +30,7 @@ Detail-oriented MIS Executive with professional experience in data-driven operat
 
 ### 📬 Connect with me:
 <p align="left">
-  <a href="mailto:sk.khajarahamthulla199@gmail.com"><img src="URL_TO_GMAIL_IMAGE" alt="Email" height="30"></a>
+  <a href="mailto:sk.khajarahamthulla199@gmail.com"><img src="https://github.com/khajarahamthulla-sk/My_Portfolio/blob/main/GmailLogo.png" alt="Email" height="30"></a>
   <a href="https://linkedin.com/in/sk-khajarahamthulla" target="_blank"><img src="URL_TO_LINKEDIN_IMAGE" alt="LinkedIn" height="30"></a>
 </p>
 
