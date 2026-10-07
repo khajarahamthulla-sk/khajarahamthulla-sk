@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/khajarahamthulla-sk/khajarahamthulla-sk/blob/main/GitHub%20Background.png" width="100%" alt="GitHub Background">
+  <img src="https://github.com/khajarahamthulla-sk/khajarahamthulla-sk/blob/main/GitHub%20Background.png" width="100%" height="250" alt="GitHub Background">
 </div>
 
 # Hi, I'm Khajarahamthulla Shaik
